@@ -1,0 +1,7 @@
+.venv/
+venv/
+tickets.json
+__pycache__/
+.env
+*.save
+api_key.txt
